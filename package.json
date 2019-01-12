@@ -14,6 +14,13 @@
   "dependencies": {
     "next": "^7.0.2",
     "react": "^16.7.0",
-    "react-dom": "^16.7.0"
+    "react-dom": "^16.7.0",
+    "next-redux-wrapper": "^2.0.0",
+    "react-redux": "^5.0.1",
+    "redux": "^3.6.0",
+    "redux-act": "^1.7.4",
+    "redux-devtools-extension": "^2.13.2",
+    "redux-form": "^7.4.2",
+    "redux-thunk": "^2.1.0"
   }
 }

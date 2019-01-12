@@ -112,7 +112,7 @@ module.exports = __webpack_require__(/*! next/error */ "next/error")
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! D:\Sites\nextjs\example-1\node_modules\next\dist\pages\_error.js */"./node_modules/next/dist/pages/_error.js");
+module.exports = __webpack_require__(/*! D:\Sites\nextjs\nextjs-init\node_modules\next\dist\pages\_error.js */"./node_modules/next/dist/pages/_error.js");
 
 
 /***/ }),
